@@ -115,7 +115,7 @@ The final model has a silhouette score of approximately 0.17. This is modest, bu
 
 Basket structure provides clearer differences between missions than temporal variables.
 
-![Behavioral profile](figures/behavioral_profile.png)
+![Behavioral profile](figures/behavioral_profiles.png)
 
 Robustness checks showed that:
 
